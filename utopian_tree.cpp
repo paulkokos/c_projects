@@ -32,4 +32,12 @@ int main(){
         cout << height2[i] << endl;
     }
     return 0;
+	
+	
+	
+	
+	
+	
+	
+	
 }
