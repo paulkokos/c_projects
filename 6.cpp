@@ -8,8 +8,8 @@ int main()
 }
 void fillup(int a[],int size)
 {
-    cout << "doste "<< size << "arithmoys:\n";
+    cout << "Δωστε "<< size << "αριθμους:\n";
     for (int i=0;i<size;i++)
     cin >>a[i];
-    cout << "o teleytaios deiktis toy pinaka einai: "<< (size-1)<<endl;
+    cout << "Ο τελευταιος δεικτης του πινακα ειναι: "<< (size-1)<<endl;
 }
