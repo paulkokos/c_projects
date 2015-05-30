@@ -1,3 +1,7 @@
+//
+//
+//
+
 #include <iostream>
 using namespace std;
 double EstimateOfTotal(int minPeas,int maxPeas,int podCount);
