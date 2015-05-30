@@ -1,6 +1,0 @@
-#ifndef TEST1_H_INCLUDED
-#define TEST1_H_INCLUDED
-
-
-
-#endif // TEST1_H_INCLUDED
