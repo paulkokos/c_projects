@@ -1,15 +1,15 @@
 # The set of languages for which implicit dependencies are needed:
 set(CMAKE_DEPENDS_LANGUAGES
-  "CXX"
+  "C"
   )
 # The set of files for implicit dependencies of each language:
-set(CMAKE_DEPENDS_CHECK_CXX
-  "C:/Users/paulkokos/CLionProjects/c_projects/utopian_tree.cpp" "C:/Users/paulkokos/CLionProjects/c_projects/cmake-build-debug/CMakeFiles/untitled1.dir/utopian_tree.cpp.obj"
+set(CMAKE_DEPENDS_CHECK_C
+  "C:/Users/paulkokos/CLionProjects/c_projects/Η Γλωσσα C σε βαθος - Χατζηγιαννακης/test.c" "C:/Users/paulkokos/CLionProjects/c_projects/cmake-build-debug/CMakeFiles/untitled1.dir/Η_Γλωσσα_C_σε_βαθος_-_Χατζηγιαννακης/test.c.obj"
   )
-set(CMAKE_CXX_COMPILER_ID "MSVC")
+set(CMAKE_C_COMPILER_ID "MSVC")
 
 # The include file search paths:
-set(CMAKE_CXX_TARGET_INCLUDE_PATH
+set(CMAKE_C_TARGET_INCLUDE_PATH
   )
 
 # Targets to which this target links.

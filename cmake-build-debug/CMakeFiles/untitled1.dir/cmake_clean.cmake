@@ -1,5 +1,5 @@
 file(REMOVE_RECURSE
-  "CMakeFiles/untitled1.dir/utopian_tree.cpp.obj"
+  "CMakeFiles/untitled1.dir/Η_Γλωσσα_C_σε_βαθος_-_Χατζηγιαννακης/test.c.obj"
   "untitled1.exe"
   "untitled1.exe.manifest"
   "untitled1.lib"
@@ -7,6 +7,6 @@ file(REMOVE_RECURSE
 )
 
 # Per-language clean rules from dependency scanning.
-foreach(lang CXX)
+foreach(lang C)
   include(CMakeFiles/untitled1.dir/cmake_clean_${lang}.cmake OPTIONAL)
 endforeach()
