@@ -15,7 +15,7 @@ for (int i=0;i<6;i++)
     }
 }
 int j;
-/*for (j=0;j<6;j++)
+/*for (j=0;j<Chapter06;j++)
     {
     int fd;
 

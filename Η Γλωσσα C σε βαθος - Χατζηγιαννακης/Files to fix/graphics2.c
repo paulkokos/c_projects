@@ -1,6 +1,6 @@
-#include <GL/gl.h>
+#include <gl/GL.h>
 #include <GL/glut.h>
-#include <GL/glu.h>
+#include <gl/GLU.h>
 void setup() {   glClearColor(1.0f, 1.0f, 1.0f, 1.0f); }
 void display()
    {

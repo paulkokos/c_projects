@@ -12,9 +12,108 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="9daec69b-7d49-453b-9723-153e1f371aee" name="Default Changelist" comment="Corrections">
-      <change afterPath="$PROJECT_DIR$/Η Γλωσσα C++ σε βαθος - Χατζηγιαννακης/Chapter30/CMakeLists.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Η Γλωσσα C++ σε βαθος - Χατζηγιαννακης/Chapter30/main.c" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Η Γλωσσα C++ σε βαθος - Χατζηγιαννακης/Chapter30/readme.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CMakeLists.txt" beforeDir="false" afterPath="$PROJECT_DIR$/CMakeLists.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Η Γλωσσα C σε βαθος - Χατζηγιαννακης/Arrays-DS.c" beforeDir="false" afterPath="$PROJECT_DIR$/Η Γλωσσα C σε βαθος - Χατζηγιαννακης/Files to fix/Arrays-DS.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Η Γλωσσα C σε βαθος - Χατζηγιαννακης/Two Strings Game.c" beforeDir="false" afterPath="$PROJECT_DIR$/Η Γλωσσα C σε βαθος - Χατζηγιαννακης/Files to fix/Two Strings Game.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Η Γλωσσα C σε βαθος - Χατζηγιαννακης/askisi_11.10.c" beforeDir="false" afterPath="$PROJECT_DIR$/Η Γλωσσα C σε βαθος - Χατζηγιαννακης/Files to fix/askisi_11.10.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Η Γλωσσα C σε βαθος - Χατζηγιαννακης/askisi_11.3.c" beforeDir="false" afterPath="$PROJECT_DIR$/Η Γλωσσα C σε βαθος - Χατζηγιαννακης/Files to fix/askisi_11.3.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Η Γλωσσα C σε βαθος - Χατζηγιαννακης/askisi_11.4.c" beforeDir="false" afterPath="$PROJECT_DIR$/Η Γλωσσα C σε βαθος - Χατζηγιαννακης/Files to fix/askisi_11.4.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Η Γλωσσα C σε βαθος - Χατζηγιαννακης/askisi_11.6.c" beforeDir="false" afterPath="$PROJECT_DIR$/Η Γλωσσα C σε βαθος - Χατζηγιαννακης/Files to fix/askisi_11.6.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Η Γλωσσα C σε βαθος - Χατζηγιαννακης/askisi_11.7.c" beforeDir="false" afterPath="$PROJECT_DIR$/Η Γλωσσα C σε βαθος - Χατζηγιαννακης/Files to fix/askisi_11.7.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Η Γλωσσα C σε βαθος - Χατζηγιαννακης/askisi_5-char.c" beforeDir="false" afterPath="$PROJECT_DIR$/Η Γλωσσα C σε βαθος - Χατζηγιαννακης/Files to fix/askisi_5-char.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Η Γλωσσα C σε βαθος - Χατζηγιαννακης/askisi_8.21.c/askisi_8.21.c.cbp" beforeDir="false" afterPath="$PROJECT_DIR$/Η Γλωσσα C σε βαθος - Χατζηγιαννακης/Files to fix/askisi_8.21.c/askisi_8.21.c.cbp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Η Γλωσσα C σε βαθος - Χατζηγιαννακης/askisi_8.21.c/askisi_8.21.c.layout" beforeDir="false" afterPath="$PROJECT_DIR$/Η Γλωσσα C σε βαθος - Χατζηγιαννακης/Files to fix/askisi_8.21.c/askisi_8.21.c.layout" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Η Γλωσσα C σε βαθος - Χατζηγιαννακης/askisi_8.21.c/bin/Debug/askisi_8.21" beforeDir="false" afterPath="$PROJECT_DIR$/Η Γλωσσα C σε βαθος - Χατζηγιαννακης/Files to fix/askisi_8.21.c/bin/Debug/askisi_8.21" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Η Γλωσσα C σε βαθος - Χατζηγιαννακης/askisi_8.21.c/main.c" beforeDir="false" afterPath="$PROJECT_DIR$/Η Γλωσσα C σε βαθος - Χατζηγιαννακης/Files to fix/askisi_8.21.c/main.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Η Γλωσσα C σε βαθος - Χατζηγιαννακης/askisi_8.21.c/obj/Debug/main.o" beforeDir="false" afterPath="$PROJECT_DIR$/Η Γλωσσα C σε βαθος - Χατζηγιαννακης/Files to fix/askisi_8.21.c/obj/Debug/main.o" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Η Γλωσσα C σε βαθος - Χατζηγιαννακης/c_askiseis_apo_xatzigianaki/3.9_askisi" beforeDir="false" afterPath="$PROJECT_DIR$/Η Γλωσσα C σε βαθος - Χατζηγιαννακης/Files to fix/c_askiseis_apo_xatzigianaki/3.9_askisi" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Η Γλωσσα C σε βαθος - Χατζηγιαννακης/c_askiseis_apo_xatzigianaki/5_kefalaio" beforeDir="false" afterPath="$PROJECT_DIR$/Η Γλωσσα C σε βαθος - Χατζηγιαννακης/Files to fix/c_askiseis_apo_xatzigianaki/5_kefalaio" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Η Γλωσσα C σε βαθος - Χατζηγιαννακης/c_askiseis_apo_xatzigianaki/5_kefalaio.c" beforeDir="false" afterPath="$PROJECT_DIR$/Η Γλωσσα C σε βαθος - Χατζηγιαννακης/Files to fix/c_askiseis_apo_xatzigianaki/5_kefalaio.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Η Γλωσσα C σε βαθος - Χατζηγιαννακης/c_askiseis_apo_xatzigianaki/5_kefalaio.o" beforeDir="false" afterPath="$PROJECT_DIR$/Η Γλωσσα C σε βαθος - Χατζηγιαννακης/Files to fix/c_askiseis_apo_xatzigianaki/5_kefalaio.o" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Η Γλωσσα C σε βαθος - Χατζηγιαννακης/c_askiseis_apo_xatzigianaki/Untitled1.c" beforeDir="false" afterPath="$PROJECT_DIR$/Η Γλωσσα C σε βαθος - Χατζηγιαννακης/Files to fix/c_askiseis_apo_xatzigianaki/Untitled1.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Η Γλωσσα C σε βαθος - Χατζηγιαννακης/c_askiseis_apo_xatzigianaki/askisi-8-1" beforeDir="false" afterPath="$PROJECT_DIR$/Η Γλωσσα C σε βαθος - Χατζηγιαννακης/Files to fix/c_askiseis_apo_xatzigianaki/askisi-8-1" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Η Γλωσσα C σε βαθος - Χατζηγιαννακης/c_askiseis_apo_xatzigianaki/askisi-8-1.c" beforeDir="false" afterPath="$PROJECT_DIR$/Η Γλωσσα C σε βαθος - Χατζηγιαννακης/Files to fix/c_askiseis_apo_xatzigianaki/askisi-8-1.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Η Γλωσσα C σε βαθος - Χατζηγιαννακης/c_askiseis_apo_xatzigianaki/askisi-8-1.o" beforeDir="false" afterPath="$PROJECT_DIR$/Η Γλωσσα C σε βαθος - Χατζηγιαννακης/Files to fix/c_askiseis_apo_xatzigianaki/askisi-8-1.o" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Η Γλωσσα C σε βαθος - Χατζηγιαννακης/c_askiseis_apo_xatzigianaki/askisi-8-2" beforeDir="false" afterPath="$PROJECT_DIR$/Η Γλωσσα C σε βαθος - Χατζηγιαννακης/Files to fix/c_askiseis_apo_xatzigianaki/askisi-8-2" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Η Γλωσσα C σε βαθος - Χατζηγιαννακης/c_askiseis_apo_xatzigianaki/askisi-8-2.c" beforeDir="false" afterPath="$PROJECT_DIR$/Η Γλωσσα C σε βαθος - Χατζηγιαννακης/Files to fix/c_askiseis_apo_xatzigianaki/askisi-8-2.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Η Γλωσσα C σε βαθος - Χατζηγιαννακης/c_askiseis_apo_xatzigianaki/askisi-8-2.o" beforeDir="false" afterPath="$PROJECT_DIR$/Η Γλωσσα C σε βαθος - Χατζηγιαννακης/Files to fix/c_askiseis_apo_xatzigianaki/askisi-8-2.o" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Η Γλωσσα C σε βαθος - Χατζηγιαννακης/c_askiseis_apo_xatzigianaki/askisi8-1" beforeDir="false" afterPath="$PROJECT_DIR$/Η Γλωσσα C σε βαθος - Χατζηγιαννακης/Files to fix/c_askiseis_apo_xatzigianaki/askisi8-1" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Η Γλωσσα C σε βαθος - Χατζηγιαννακης/c_askiseis_apo_xatzigianaki/askisi8-1.c" beforeDir="false" afterPath="$PROJECT_DIR$/Η Γλωσσα C σε βαθος - Χατζηγιαννακης/Files to fix/c_askiseis_apo_xatzigianaki/askisi8-1.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Η Γλωσσα C σε βαθος - Χατζηγιαννακης/c_askiseis_apo_xatzigianaki/askisi8-1.o" beforeDir="false" afterPath="$PROJECT_DIR$/Η Γλωσσα C σε βαθος - Χατζηγιαννακης/Files to fix/c_askiseis_apo_xatzigianaki/askisi8-1.o" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Η Γλωσσα C σε βαθος - Χατζηγιαννακης/c_askiseis_apo_xatzigianaki/askisi_4.15.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/Η Γλωσσα C σε βαθος - Χατζηγιαννακης/Files to fix/c_askiseis_apo_xatzigianaki/askisi_4.15.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Η Γλωσσα C σε βαθος - Χατζηγιαννακης/c_askiseis_apo_xatzigianaki/askisi_4_15" beforeDir="false" afterPath="$PROJECT_DIR$/Η Γλωσσα C σε βαθος - Χατζηγιαννακης/Files to fix/c_askiseis_apo_xatzigianaki/askisi_4_15" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Η Γλωσσα C σε βαθος - Χατζηγιαννακης/c_askiseis_apo_xatzigianaki/askisi_4_15.c" beforeDir="false" afterPath="$PROJECT_DIR$/Η Γλωσσα C σε βαθος - Χατζηγιαννακης/Files to fix/c_askiseis_apo_xatzigianaki/askisi_4_15.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Η Γλωσσα C σε βαθος - Χατζηγιαννακης/c_askiseis_apo_xatzigianaki/askisi_4_15.o" beforeDir="false" afterPath="$PROJECT_DIR$/Η Γλωσσα C σε βαθος - Χατζηγιαννακης/Files to fix/c_askiseis_apo_xatzigianaki/askisi_4_15.o" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Η Γλωσσα C σε βαθος - Χατζηγιαννακης/c_askiseis_apo_xatzigianaki/askisi_5_10" beforeDir="false" afterPath="$PROJECT_DIR$/Η Γλωσσα C σε βαθος - Χατζηγιαννακης/Files to fix/c_askiseis_apo_xatzigianaki/askisi_5_10" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Η Γλωσσα C σε βαθος - Χατζηγιαννακης/c_askiseis_apo_xatzigianaki/askisi_5_10.c" beforeDir="false" afterPath="$PROJECT_DIR$/Η Γλωσσα C σε βαθος - Χατζηγιαννακης/Files to fix/c_askiseis_apo_xatzigianaki/askisi_5_10.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Η Γλωσσα C σε βαθος - Χατζηγιαννακης/c_askiseis_apo_xatzigianaki/askisi_5_10.o" beforeDir="false" afterPath="$PROJECT_DIR$/Η Γλωσσα C σε βαθος - Χατζηγιαννακης/Files to fix/c_askiseis_apo_xatzigianaki/askisi_5_10.o" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Η Γλωσσα C σε βαθος - Χατζηγιαννακης/c_askiseis_apo_xatzigianaki/askisi_7-10" beforeDir="false" afterPath="$PROJECT_DIR$/Η Γλωσσα C σε βαθος - Χατζηγιαννακης/Files to fix/c_askiseis_apo_xatzigianaki/askisi_7-10" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Η Γλωσσα C σε βαθος - Χατζηγιαννακης/c_askiseis_apo_xatzigianaki/askisi_7-10.c" beforeDir="false" afterPath="$PROJECT_DIR$/Η Γλωσσα C σε βαθος - Χατζηγιαννακης/Files to fix/c_askiseis_apo_xatzigianaki/askisi_7-10.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Η Γλωσσα C σε βαθος - Χατζηγιαννακης/c_askiseis_apo_xatzigianaki/askisi_7-10.o" beforeDir="false" afterPath="$PROJECT_DIR$/Η Γλωσσα C σε βαθος - Χατζηγιαννακης/Files to fix/c_askiseis_apo_xatzigianaki/askisi_7-10.o" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Η Γλωσσα C σε βαθος - Χατζηγιαννακης/c_askiseis_apo_xatzigianaki/askisi_7-6" beforeDir="false" afterPath="$PROJECT_DIR$/Η Γλωσσα C σε βαθος - Χατζηγιαννακης/Files to fix/c_askiseis_apo_xatzigianaki/askisi_7-6" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Η Γλωσσα C σε βαθος - Χατζηγιαννακης/c_askiseis_apo_xatzigianaki/askisi_7-6.c" beforeDir="false" afterPath="$PROJECT_DIR$/Η Γλωσσα C σε βαθος - Χατζηγιαννακης/Files to fix/c_askiseis_apo_xatzigianaki/askisi_7-6.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Η Γλωσσα C σε βαθος - Χατζηγιαννακης/c_askiseis_apo_xatzigianaki/askisi_7-6.o" beforeDir="false" afterPath="$PROJECT_DIR$/Η Γλωσσα C σε βαθος - Χατζηγιαννακης/Files to fix/c_askiseis_apo_xatzigianaki/askisi_7-6.o" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Η Γλωσσα C σε βαθος - Χατζηγιαννακης/c_askiseis_apo_xatzigianaki/askisi_7-9" beforeDir="false" afterPath="$PROJECT_DIR$/Η Γλωσσα C σε βαθος - Χατζηγιαννακης/Files to fix/c_askiseis_apo_xatzigianaki/askisi_7-9" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Η Γλωσσα C σε βαθος - Χατζηγιαννακης/c_askiseis_apo_xatzigianaki/askisi_7-9.c" beforeDir="false" afterPath="$PROJECT_DIR$/Η Γλωσσα C σε βαθος - Χατζηγιαννακης/Files to fix/c_askiseis_apo_xatzigianaki/askisi_7-9.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Η Γλωσσα C σε βαθος - Χατζηγιαννακης/c_askiseis_apo_xatzigianaki/askisi_7-9.o" beforeDir="false" afterPath="$PROJECT_DIR$/Η Γλωσσα C σε βαθος - Χατζηγιαννακης/Files to fix/c_askiseis_apo_xatzigianaki/askisi_7-9.o" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Η Γλωσσα C σε βαθος - Χατζηγιαννακης/c_askiseis_apo_xatzigianaki/c_askiseis_apo_xatzigianaki.cbp" beforeDir="false" afterPath="$PROJECT_DIR$/Η Γλωσσα C σε βαθος - Χατζηγιαννακης/Files to fix/c_askiseis_apo_xatzigianaki/c_askiseis_apo_xatzigianaki.cbp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Η Γλωσσα C σε βαθος - Χατζηγιαννακης/c_askiseis_apo_xatzigianaki/c_askiseis_apo_xatzigianaki.layout" beforeDir="false" afterPath="$PROJECT_DIR$/Η Γλωσσα C σε βαθος - Χατζηγιαννακης/Files to fix/c_askiseis_apo_xatzigianaki/c_askiseis_apo_xatzigianaki.layout" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Η Γλωσσα C σε βαθος - Χατζηγιαννακης/c_askiseis_apo_xatzigianaki/kefalaio-8" beforeDir="false" afterPath="$PROJECT_DIR$/Η Γλωσσα C σε βαθος - Χατζηγιαννακης/Files to fix/c_askiseis_apo_xatzigianaki/kefalaio-8" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Η Γλωσσα C σε βαθος - Χατζηγιαννακης/c_askiseis_apo_xatzigianaki/kefalaio-8-3" beforeDir="false" afterPath="$PROJECT_DIR$/Η Γλωσσα C σε βαθος - Χατζηγιαννακης/Files to fix/c_askiseis_apo_xatzigianaki/kefalaio-8-3" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Η Γλωσσα C σε βαθος - Χατζηγιαννακης/c_askiseis_apo_xatzigianaki/kefalaio-8-3.c" beforeDir="false" afterPath="$PROJECT_DIR$/Η Γλωσσα C σε βαθος - Χατζηγιαννακης/Files to fix/c_askiseis_apo_xatzigianaki/kefalaio-8-3.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Η Γλωσσα C σε βαθος - Χατζηγιαννακης/c_askiseis_apo_xatzigianaki/kefalaio-8-3.o" beforeDir="false" afterPath="$PROJECT_DIR$/Η Γλωσσα C σε βαθος - Χατζηγιαννακης/Files to fix/c_askiseis_apo_xatzigianaki/kefalaio-8-3.o" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Η Γλωσσα C σε βαθος - Χατζηγιαννακης/c_askiseis_apo_xatzigianaki/kefalaio-8.1" beforeDir="false" afterPath="$PROJECT_DIR$/Η Γλωσσα C σε βαθος - Χατζηγιαννακης/Files to fix/c_askiseis_apo_xatzigianaki/kefalaio-8.1" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Η Γλωσσα C σε βαθος - Χατζηγιαννακης/c_askiseis_apo_xatzigianaki/kefalaio-8.1.c" beforeDir="false" afterPath="$PROJECT_DIR$/Η Γλωσσα C σε βαθος - Χατζηγιαννακης/Files to fix/c_askiseis_apo_xatzigianaki/kefalaio-8.1.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Η Γλωσσα C σε βαθος - Χατζηγιαννακης/c_askiseis_apo_xatzigianaki/kefalaio-8.1.o" beforeDir="false" afterPath="$PROJECT_DIR$/Η Γλωσσα C σε βαθος - Χατζηγιαννακης/Files to fix/c_askiseis_apo_xatzigianaki/kefalaio-8.1.o" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Η Γλωσσα C σε βαθος - Χατζηγιαννακης/c_askiseis_apo_xatzigianaki/kefalaio-8.c" beforeDir="false" afterPath="$PROJECT_DIR$/Η Γλωσσα C σε βαθος - Χατζηγιαννακης/Files to fix/c_askiseis_apo_xatzigianaki/kefalaio-8.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Η Γλωσσα C σε βαθος - Χατζηγιαννακης/c_askiseis_apo_xatzigianaki/kefalaio-8.o" beforeDir="false" afterPath="$PROJECT_DIR$/Η Γλωσσα C σε βαθος - Χατζηγιαννακης/Files to fix/c_askiseis_apo_xatzigianaki/kefalaio-8.o" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Η Γλωσσα C σε βαθος - Χατζηγιαννακης/c_askiseis_apo_xatzigianaki/main" beforeDir="false" afterPath="$PROJECT_DIR$/Η Γλωσσα C σε βαθος - Χατζηγιαννακης/Files to fix/c_askiseis_apo_xatzigianaki/main" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Η Γλωσσα C σε βαθος - Χατζηγιαννακης/c_askiseis_apo_xatzigianaki/main.c" beforeDir="false" afterPath="$PROJECT_DIR$/Η Γλωσσα C σε βαθος - Χατζηγιαννακης/Files to fix/c_askiseis_apo_xatzigianaki/main.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Η Γλωσσα C σε βαθος - Χατζηγιαννακης/c_askiseis_apo_xatzigianaki/main.o" beforeDir="false" afterPath="$PROJECT_DIR$/Η Γλωσσα C σε βαθος - Χατζηγιαννακης/Files to fix/c_askiseis_apo_xatzigianaki/main.o" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Η Γλωσσα C σε βαθος - Χατζηγιαννακης/c_askiseis_apo_xatzigianaki/test2.c" beforeDir="false" afterPath="$PROJECT_DIR$/Η Γλωσσα C σε βαθος - Χατζηγιαννακης/Files to fix/c_askiseis_apo_xatzigianaki/test2.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Η Γλωσσα C σε βαθος - Χατζηγιαννακης/c_askiseis_apo_xatzigianaki/test2.o" beforeDir="false" afterPath="$PROJECT_DIR$/Η Γλωσσα C σε βαθος - Χατζηγιαννακης/Files to fix/c_askiseis_apo_xatzigianaki/test2.o" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Η Γλωσσα C σε βαθος - Χατζηγιαννακης/fflush.c" beforeDir="false" afterPath="$PROJECT_DIR$/Η Γλωσσα C σε βαθος - Χατζηγιαννακης/Files to fix/fflush.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Η Γλωσσα C σε βαθος - Χατζηγιαννακης/genlib.c" beforeDir="false" afterPath="$PROJECT_DIR$/Η Γλωσσα C σε βαθος - Χατζηγιαννακης/Files to fix/genlib.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Η Γλωσσα C σε βαθος - Χατζηγιαννακης/genlib.h" beforeDir="false" afterPath="$PROJECT_DIR$/Η Γλωσσα C σε βαθος - Χατζηγιαννακης/Files to fix/genlib.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Η Γλωσσα C σε βαθος - Χατζηγιαννακης/graphics.c" beforeDir="false" afterPath="$PROJECT_DIR$/Η Γλωσσα C σε βαθος - Χατζηγιαννακης/Files to fix/graphics.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Η Γλωσσα C σε βαθος - Χατζηγιαννακης/graphics/graphics.cbp" beforeDir="false" afterPath="$PROJECT_DIR$/Η Γλωσσα C σε βαθος - Χατζηγιαννακης/Files to fix/graphics/graphics.cbp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Η Γλωσσα C σε βαθος - Χατζηγιαννακης/graphics/graphics.depend" beforeDir="false" afterPath="$PROJECT_DIR$/Η Γλωσσα C σε βαθος - Χατζηγιαννακης/Files to fix/graphics/graphics.depend" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Η Γλωσσα C σε βαθος - Χατζηγιαννακης/graphics/graphics.h" beforeDir="false" afterPath="$PROJECT_DIR$/Η Γλωσσα C σε βαθος - Χατζηγιαννακης/Files to fix/graphics/graphics.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Η Γλωσσα C σε βαθος - Χατζηγιαννακης/graphics/graphics.layout" beforeDir="false" afterPath="$PROJECT_DIR$/Η Γλωσσα C σε βαθος - Χατζηγιαννακης/Files to fix/graphics/graphics.layout" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Η Γλωσσα C σε βαθος - Χατζηγιαννακης/graphics/main.c" beforeDir="false" afterPath="$PROJECT_DIR$/Η Γλωσσα C σε βαθος - Χατζηγιαννακης/Files to fix/graphics/main.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Η Γλωσσα C σε βαθος - Χατζηγιαννακης/graphics/obj/Debug/askiseis_xatzigianaki_c/graphics.o" beforeDir="false" afterPath="$PROJECT_DIR$/Η Γλωσσα C σε βαθος - Χατζηγιαννακης/Files to fix/graphics/obj/Debug/askiseis_xatzigianaki_c/graphics.o" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Η Γλωσσα C σε βαθος - Χατζηγιαννακης/graphics2.c" beforeDir="false" afterPath="$PROJECT_DIR$/Η Γλωσσα C σε βαθος - Χατζηγιαννακης/Files to fix/graphics2.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Η Γλωσσα C σε βαθος - Χατζηγιαννακης/kefalaio_11/kefalaio_11.cbp" beforeDir="false" afterPath="$PROJECT_DIR$/Η Γλωσσα C σε βαθος - Χατζηγιαννακης/Files to fix/kefalaio_11/kefalaio_11.cbp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Η Γλωσσα C σε βαθος - Χατζηγιαννακης/kefalaio_11/kefalaio_11.depend" beforeDir="false" afterPath="$PROJECT_DIR$/Η Γλωσσα C σε βαθος - Χατζηγιαννακης/Files to fix/kefalaio_11/kefalaio_11.depend" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Η Γλωσσα C σε βαθος - Χατζηγιαννακης/kefalaio_11/kefalaio_11.layout" beforeDir="false" afterPath="$PROJECT_DIR$/Η Γλωσσα C σε βαθος - Χατζηγιαννακης/Files to fix/kefalaio_11/kefalaio_11.layout" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Η Γλωσσα C σε βαθος - Χατζηγιαννακης/kefalaio_11/main.c" beforeDir="false" afterPath="$PROJECT_DIR$/Η Γλωσσα C σε βαθος - Χατζηγιαννακης/Files to fix/kefalaio_11/main.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Η Γλωσσα C σε βαθος - Χατζηγιαννακης/kefalaio_11/obj/Debug/pointers.o" beforeDir="false" afterPath="$PROJECT_DIR$/Η Γλωσσα C σε βαθος - Χατζηγιαννακης/Files to fix/kefalaio_11/obj/Debug/pointers.o" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Η Γλωσσα C σε βαθος - Χατζηγιαννακης/kefalaio_11/obj/Debug/strings.o" beforeDir="false" afterPath="$PROJECT_DIR$/Η Γλωσσα C σε βαθος - Χατζηγιαννακης/Files to fix/kefalaio_11/obj/Debug/strings.o" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Η Γλωσσα C σε βαθος - Χατζηγιαννακης/kefalaio_11_c.c" beforeDir="false" afterPath="$PROJECT_DIR$/Η Γλωσσα C σε βαθος - Χατζηγιαννακης/Files to fix/kefalaio_11_c.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Η Γλωσσα C σε βαθος - Χατζηγιαννακης/kefalaio_12_pinakes_alfarithmitikoi.c" beforeDir="false" afterPath="$PROJECT_DIR$/Η Γλωσσα C σε βαθος - Χατζηγιαννακης/Files to fix/kefalaio_12_pinakes_alfarithmitikoi.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Η Γλωσσα C σε βαθος - Χατζηγιαννακης/kefalaio_9/askisi_9.10.c" beforeDir="false" afterPath="$PROJECT_DIR$/Η Γλωσσα C σε βαθος - Χατζηγιαννακης/Files to fix/kefalaio_9/askisi_9.10.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Η Γλωσσα C σε βαθος - Χατζηγιαννακης/kefalaio_9/askisi_9.7.c" beforeDir="false" afterPath="$PROJECT_DIR$/Η Γλωσσα C σε βαθος - Χατζηγιαννακης/Files to fix/kefalaio_9/askisi_9.7.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Η Γλωσσα C σε βαθος - Χατζηγιαννακης/kefalaio_9/kefalaio_9.cbp" beforeDir="false" afterPath="$PROJECT_DIR$/Η Γλωσσα C σε βαθος - Χατζηγιαννακης/Files to fix/kefalaio_9/kefalaio_9.cbp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Η Γλωσσα C σε βαθος - Χατζηγιαννακης/kefalaio_9/kefalaio_9.depend" beforeDir="false" afterPath="$PROJECT_DIR$/Η Γλωσσα C σε βαθος - Χατζηγιαννακης/Files to fix/kefalaio_9/kefalaio_9.depend" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Η Γλωσσα C σε βαθος - Χατζηγιαννακης/kefalaio_9/kefalaio_9.layout" beforeDir="false" afterPath="$PROJECT_DIR$/Η Γλωσσα C σε βαθος - Χατζηγιαννακης/Files to fix/kefalaio_9/kefalaio_9.layout" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Η Γλωσσα C σε βαθος - Χατζηγιαννακης/kefalaio_9/main.c" beforeDir="false" afterPath="$PROJECT_DIR$/Η Γλωσσα C σε βαθος - Χατζηγιαννακης/Files to fix/kefalaio_9/main.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Η Γλωσσα C σε βαθος - Χατζηγιαννακης/kefalaio_9/obj/Debug/askisi_9.7.o" beforeDir="false" afterPath="$PROJECT_DIR$/Η Γλωσσα C σε βαθος - Χατζηγιαννακης/Files to fix/kefalaio_9/obj/Debug/askisi_9.7.o" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Η Γλωσσα C σε βαθος - Χατζηγιαννακης/kefalaio_9/obj/Debug/cpp files/kefalaio_9/askisi_9.7.o" beforeDir="false" afterPath="$PROJECT_DIR$/Η Γλωσσα C σε βαθος - Χατζηγιαννακης/Files to fix/kefalaio_9/obj/Debug/cpp files/kefalaio_9/askisi_9.7.o" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Η Γλωσσα C σε βαθος - Χατζηγιαννακης/kefalaio_9/obj/Debug/roberts/unix-xwindows/exception.o" beforeDir="false" afterPath="$PROJECT_DIR$/Η Γλωσσα C σε βαθος - Χατζηγιαννακης/Files to fix/kefalaio_9/obj/Debug/roberts/unix-xwindows/exception.o" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Η Γλωσσα C σε βαθος - Χατζηγιαννακης/kefalaio_9/obj/Debug/roberts/unix-xwindows/genlib.o" beforeDir="false" afterPath="$PROJECT_DIR$/Η Γλωσσα C σε βαθος - Χατζηγιαννακης/Files to fix/kefalaio_9/obj/Debug/roberts/unix-xwindows/genlib.o" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Η Γλωσσα C σε βαθος - Χατζηγιαννακης/kefalaio_9/obj/Debug/roberts/unix-xwindows/glibrary.o" beforeDir="false" afterPath="$PROJECT_DIR$/Η Γλωσσα C σε βαθος - Χατζηγιαννακης/Files to fix/kefalaio_9/obj/Debug/roberts/unix-xwindows/glibrary.o" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Η Γλωσσα C σε βαθος - Χατζηγιαννακης/kefalaio_9/obj/Debug/roberts/unix-xwindows/graphics.o" beforeDir="false" afterPath="$PROJECT_DIR$/Η Γλωσσα C σε βαθος - Χατζηγιαννακης/Files to fix/kefalaio_9/obj/Debug/roberts/unix-xwindows/graphics.o" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Η Γλωσσα C σε βαθος - Χατζηγιαννακης/kefalaio_9/obj/Debug/roberts/unix-xwindows/random.o" beforeDir="false" afterPath="$PROJECT_DIR$/Η Γλωσσα C σε βαθος - Χατζηγιαννακης/Files to fix/kefalaio_9/obj/Debug/roberts/unix-xwindows/random.o" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Η Γλωσσα C σε βαθος - Χατζηγιαννακης/kefalaio_9/obj/Debug/roberts/unix-xwindows/simpio.o" beforeDir="false" afterPath="$PROJECT_DIR$/Η Γλωσσα C σε βαθος - Χατζηγιαννακης/Files to fix/kefalaio_9/obj/Debug/roberts/unix-xwindows/simpio.o" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Η Γλωσσα C σε βαθος - Χατζηγιαννακης/kefalaio_9/obj/Debug/roberts/unix-xwindows/strlib.o" beforeDir="false" afterPath="$PROJECT_DIR$/Η Γλωσσα C σε βαθος - Χατζηγιαννακης/Files to fix/kefalaio_9/obj/Debug/roberts/unix-xwindows/strlib.o" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Η Γλωσσα C σε βαθος - Χατζηγιαννακης/kefalaio_9/obj/Debug/roberts/unix-xwindows/xcompat.o" beforeDir="false" afterPath="$PROJECT_DIR$/Η Γλωσσα C σε βαθος - Χατζηγιαννακης/Files to fix/kefalaio_9/obj/Debug/roberts/unix-xwindows/xcompat.o" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Η Γλωσσα C σε βαθος - Χατζηγιαννακης/kefalaio_9/obj/Debug/roberts/unix-xwindows/xdisplay.o" beforeDir="false" afterPath="$PROJECT_DIR$/Η Γλωσσα C σε βαθος - Χατζηγιαννακης/Files to fix/kefalaio_9/obj/Debug/roberts/unix-xwindows/xdisplay.o" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Η Γλωσσα C σε βαθος - Χατζηγιαννακης/kefalaio_9/obj/Debug/roberts/unix-xwindows/xmanager.o" beforeDir="false" afterPath="$PROJECT_DIR$/Η Γλωσσα C σε βαθος - Χατζηγιαννακης/Files to fix/kefalaio_9/obj/Debug/roberts/unix-xwindows/xmanager.o" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Η Γλωσσα C σε βαθος - Χατζηγιαννακης/main.c" beforeDir="false" afterPath="$PROJECT_DIR$/Η Γλωσσα C σε βαθος - Χατζηγιαννακης/Files to fix/main.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Η Γλωσσα C σε βαθος - Χατζηγιαννακης/strings.c" beforeDir="false" afterPath="$PROJECT_DIR$/Η Γλωσσα C σε βαθος - Χατζηγιαννακης/Files to fix/strings.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Η Γλωσσα C σε βαθος - Χατζηγιαννακης/test.c" beforeDir="false" afterPath="$PROJECT_DIR$/Η Γλωσσα C σε βαθος - Χατζηγιαννακης/Files to fix/test.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Η Γλωσσα C σε βαθος - Χατζηγιαννακης/test.h" beforeDir="false" afterPath="$PROJECT_DIR$/Η Γλωσσα C σε βαθος - Χατζηγιαννακης/Files to fix/test.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Η Γλωσσα C++ σε βαθος - Χατζηγιαννακης/14.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/Η Γλωσσα C++ σε βαθος - Χατζηγιαννακης/14.cpp" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -59,6 +158,8 @@
       <recent name="C:\Users\paulkokos\CLionProjects\c_projects\Η Γλωσσα C++ σε βαθος - Χατζηγιαννακης\Chapter26" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\paulkokos\CLionProjects\c_projects\Η Γλωσσα C σε βαθος - Χατζηγιαννακης\src" />
+      <recent name="C:\Users\paulkokos\CLionProjects\c_projects\Η Γλωσσα C σε βαθος - Χατζηγιαννακης\Files to fix" />
       <recent name="C:\Users\paulkokos\CLionProjects\c_projects\Η Γλωσσα C++ σε βαθος - Χατζηγιαννακης" />
       <recent name="C:\Users\paulkokos\CLionProjects\c_projects\Η Γλωσσα C σε βαθος - Χατζηγιαννακης" />
     </key>
@@ -90,7 +191,7 @@
       <updated>1618523836482</updated>
       <workItem from="1618523844708" duration="722000" />
       <workItem from="1427667663820" duration="6000" />
-      <workItem from="1432942842065" duration="2410000" />
+      <workItem from="1432942842065" duration="2772000" />
     </task>
     <task id="LOCAL-00001" summary="1.cpp corrections">
       <created>1427666420470</created>
@@ -344,7 +445,14 @@
       <option name="project" value="LOCAL" />
       <updated>1434241171592</updated>
     </task>
-    <option name="localTasksCounter" value="37" />
+    <task id="LOCAL-00037" summary="Corrections">
+      <created>1434327599811</created>
+      <option name="number" value="00037" />
+      <option name="presentableId" value="LOCAL-00037" />
+      <option name="project" value="LOCAL" />
+      <updated>1434327599811</updated>
+    </task>
+    <option name="localTasksCounter" value="38" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
