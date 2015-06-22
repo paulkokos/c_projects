@@ -12,7 +12,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="9daec69b-7d49-453b-9723-153e1f371aee" name="Default Changelist" comment="Corrections">
-      <change afterPath="$PROJECT_DIR$/Η Γλωσσα C σε βαθος - Χατζηγιαννακης/src/Chapter13/CMakeLists.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Η Γλωσσα C σε βαθος - Χατζηγιαννακης/src/Chapter15/CMakeLists.txt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -46,15 +46,15 @@
     <property name="cf.first.check.clang-format" value="false" />
     <property name="cidr.known.project.marker" value="true" />
     <property name="cmake.loaded.for.project" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/Η Γλωσσα C σε βαθος - Χατζηγιαννακης/src/Chapter13" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/Η Γλωσσα C σε βαθος - Χατζηγιαννακης/src/Chapter15" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\paulkokos\CLionProjects\c_projects\Η Γλωσσα C σε βαθος - Χατζηγιαννακης\src\Chapter15" />
+      <recent name="C:\Users\paulkokos\CLionProjects\c_projects\Η Γλωσσα C σε βαθος - Χατζηγιαννακης\src\Chapter14" />
       <recent name="C:\Users\paulkokos\CLionProjects\c_projects\Η Γλωσσα C σε βαθος - Χατζηγιαννακης\src\Chapter13" />
       <recent name="C:\Users\paulkokos\CLionProjects\c_projects\Η Γλωσσα C σε βαθος - Χατζηγιαννακης\src\Chapter12" />
       <recent name="C:\Users\paulkokos\CLionProjects\c_projects\Η Γλωσσα C σε βαθος - Χατζηγιαννακης\src\Chapter11" />
-      <recent name="C:\Users\paulkokos\CLionProjects\c_projects\Η Γλωσσα C σε βαθος - Χατζηγιαννακης\src\Chapter10" />
-      <recent name="C:\Users\paulkokos\CLionProjects\c_projects\Η Γλωσσα C σε βαθος - Χατζηγιαννακης\src\Chapter09" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\paulkokos\CLionProjects\c_projects\Η Γλωσσα C σε βαθος - Χατζηγιαννακης\src" />
@@ -90,21 +90,7 @@
       <updated>1618523836482</updated>
       <workItem from="1618523844708" duration="722000" />
       <workItem from="1427667663820" duration="6000" />
-      <workItem from="1432942842065" duration="3025000" />
-    </task>
-    <task id="LOCAL-00001" summary="1.cpp corrections">
-      <created>1427666420470</created>
-      <option name="number" value="00001" />
-      <option name="presentableId" value="LOCAL-00001" />
-      <option name="project" value="LOCAL" />
-      <updated>1427666420470</updated>
-    </task>
-    <task id="LOCAL-00002" summary="1.cpp corrections">
-      <created>1432943088618</created>
-      <option name="number" value="00002" />
-      <option name="presentableId" value="LOCAL-00002" />
-      <option name="project" value="LOCAL" />
-      <updated>1432943088618</updated>
+      <workItem from="1432942842065" duration="3070000" />
     </task>
     <task id="LOCAL-00003" summary="6.cpp corrections">
       <created>1433029590462</created>
@@ -435,7 +421,21 @@
       <option name="project" value="LOCAL" />
       <updated>1434760188468</updated>
     </task>
-    <option name="localTasksCounter" value="50" />
+    <task id="LOCAL-00050" summary="Corrections">
+      <created>1434846602148</created>
+      <option name="number" value="00050" />
+      <option name="presentableId" value="LOCAL-00050" />
+      <option name="project" value="LOCAL" />
+      <updated>1434846602148</updated>
+    </task>
+    <task id="LOCAL-00051" summary="Corrections">
+      <created>1434846615334</created>
+      <option name="number" value="00051" />
+      <option name="presentableId" value="LOCAL-00051" />
+      <option name="project" value="LOCAL" />
+      <updated>1434846615334</updated>
+    </task>
+    <option name="localTasksCounter" value="52" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
