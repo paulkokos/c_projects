@@ -2,7 +2,7 @@
 //δειχνει την παραγωγικοτητα καθε εργοστασιου.
 #include <iostream>
 #include <cmath>
-#include "functions.h"
+#include "../functions.h"
 using namespace std;
 const int NUMBER_OF_PLANTS=4;
 void inputData(int a[],int lastPlantNumber);
