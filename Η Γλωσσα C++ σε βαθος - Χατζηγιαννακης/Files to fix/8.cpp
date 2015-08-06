@@ -1,5 +1,5 @@
 #include <iostream>
-#include "functions.h"
+#include "../functions.h"
 using namespace std;
 const int MAX_NUMBERS_SCORES=10;
 void fillArray(int a[],int size,int& numberUsed);
