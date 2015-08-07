@@ -1,4 +1,4 @@
-#include "functions.h"
+#include "../functions.h"
 #include <iostream>
 using namespace std;
 const int DECLARED_SIZE=20;
