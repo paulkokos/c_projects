@@ -12,10 +12,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="9daec69b-7d49-453b-9723-153e1f371aee" name="Default Changelist" comment="Corrections">
-      <change afterPath="$PROJECT_DIR$/Η Γλωσσα C σε βαθος - Χατζηγιαννακης/src/Chapter12/Exercises/CMakeLists.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Η Γλωσσα C σε βαθος - Χατζηγιαννακης/src/Chapter12/Exercises/main.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Η Γλωσσα C σε βαθος - Χατζηγιαννακης/src/Chapter12/Exercises/readme.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Η Γλωσσα C σε βαθος - Χατζηγιαννακης/src/Chapter13/Exercises/CMakeLists.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Η Γλωσσα C σε βαθος - Χατζηγιαννακης/src/Chapter13/Exercises/main.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Η Γλωσσα C σε βαθος - Χατζηγιαννακης/src/Chapter13/Exercises/readme.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -49,15 +48,15 @@
     <property name="cf.first.check.clang-format" value="false" />
     <property name="cidr.known.project.marker" value="true" />
     <property name="cmake.loaded.for.project" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/Η Γλωσσα C σε βαθος - Χατζηγιαννακης/src/Chapter12" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/Η Γλωσσα C σε βαθος - Χατζηγιαννακης/src/Chapter13" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\paulkokos\CLionProjects\c_projects\Η Γλωσσα C σε βαθος - Χατζηγιαννακης\src\Chapter13" />
       <recent name="C:\Users\paulkokos\CLionProjects\c_projects\Η Γλωσσα C σε βαθος - Χατζηγιαννακης\src\Chapter12" />
       <recent name="C:\Users\paulkokos\CLionProjects\c_projects\Η Γλωσσα C σε βαθος - Χατζηγιαννακης\src\Chapter11" />
       <recent name="C:\Users\paulkokos\CLionProjects\c_projects\Η Γλωσσα C σε βαθος - Χατζηγιαννακης\src\Chapter10" />
       <recent name="C:\Users\paulkokos\CLionProjects\c_projects\Η Γλωσσα C σε βαθος - Χατζηγιαννακης\src\Chapter09" />
-      <recent name="C:\Users\paulkokos\CLionProjects\c_projects\Η Γλωσσα C σε βαθος - Χατζηγιαννακης\src\Chapter08" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\paulkokos\CLionProjects\c_projects\Η Γλωσσα C++ σε βαθος - Χατζηγιαννακης\Files to fix" />
@@ -94,14 +93,7 @@
       <updated>1618523836482</updated>
       <workItem from="1618523844708" duration="722000" />
       <workItem from="1427667663820" duration="6000" />
-      <workItem from="1432942842065" duration="8048000" />
-    </task>
-    <task id="LOCAL-00175" summary="Corrections">
-      <created>1441242761506</created>
-      <option name="number" value="00175" />
-      <option name="presentableId" value="LOCAL-00175" />
-      <option name="project" value="LOCAL" />
-      <updated>1441242761506</updated>
+      <workItem from="1432942842065" duration="8075000" />
     </task>
     <task id="LOCAL-00176" summary="Corrections">
       <created>1441329184701</created>
@@ -439,7 +431,14 @@
       <option name="project" value="LOCAL" />
       <updated>1445045957379</updated>
     </task>
-    <option name="localTasksCounter" value="224" />
+    <task id="LOCAL-00224" summary="Corrections">
+      <created>1445132670912</created>
+      <option name="number" value="00224" />
+      <option name="presentableId" value="LOCAL-00224" />
+      <option name="project" value="LOCAL" />
+      <updated>1445132670912</updated>
+    </task>
+    <option name="localTasksCounter" value="225" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
