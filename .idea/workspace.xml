@@ -11,7 +11,17 @@
     </configurations>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9daec69b-7d49-453b-9723-153e1f371aee" name="Default Changelist" comment="Corrections" />
+    <list default="true" id="9daec69b-7d49-453b-9723-153e1f371aee" name="Default Changelist" comment="Corrections">
+      <change beforePath="$PROJECT_DIR$/Η Γλωσσα C σε βαθος - Χατζηγιαννακης/src/Chapter26/CMakeLists.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Η Γλωσσα C σε βαθος - Χατζηγιαννακης/src/Chapter26/Examples/CMakeLists.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Η Γλωσσα C σε βαθος - Χατζηγιαννακης/src/Chapter26/Examples/main.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Η Γλωσσα C σε βαθος - Χατζηγιαννακης/src/Chapter26/Examples/readme.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Η Γλωσσα C σε βαθος - Χατζηγιαννακης/src/Chapter26/Exercises/CMakeLists.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Η Γλωσσα C σε βαθος - Χατζηγιαννακης/src/Chapter26/Exercises/main.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Η Γλωσσα C σε βαθος - Χατζηγιαννακης/src/Chapter26/Exercises/readme.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Η Γλωσσα C σε βαθος - Χατζηγιαννακης/src/Chapter26/main.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Η Γλωσσα C σε βαθος - Χατζηγιαννακης/src/Chapter26/readme.md" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -89,14 +99,7 @@
       <updated>1618523836482</updated>
       <workItem from="1618523844708" duration="722000" />
       <workItem from="1427667663820" duration="6000" />
-      <workItem from="1432942842065" duration="28911000" />
-    </task>
-    <task id="LOCAL-00457" summary="Corrections">
-      <created>1461522234049</created>
-      <option name="number" value="00457" />
-      <option name="presentableId" value="LOCAL-00457" />
-      <option name="project" value="LOCAL" />
-      <updated>1461522234049</updated>
+      <workItem from="1432942842065" duration="29102000" />
     </task>
     <task id="LOCAL-00458" summary="Corrections">
       <created>1461608661964</created>
@@ -434,7 +437,14 @@
       <option name="project" value="LOCAL" />
       <updated>1464807250178</updated>
     </task>
-    <option name="localTasksCounter" value="506" />
+    <task id="LOCAL-00506" summary="Corrections">
+      <created>1464893696109</created>
+      <option name="number" value="00506" />
+      <option name="presentableId" value="LOCAL-00506" />
+      <option name="project" value="LOCAL" />
+      <updated>1464893696109</updated>
+    </task>
+    <option name="localTasksCounter" value="507" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
