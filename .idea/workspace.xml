@@ -12,9 +12,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="9daec69b-7d49-453b-9723-153e1f371aee" name="Default Changelist" comment="Corrections">
-      <change afterPath="$PROJECT_DIR$/Η Γλωσσα C++ σε βαθος - Χατζηγιαννακης/src/Chapter20/Exercises/Exercise10/CMakeLists.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Η Γλωσσα C++ σε βαθος - Χατζηγιαννακης/src/Chapter20/Exercises/Exercise10/main.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Η Γλωσσα C++ σε βαθος - Χατζηγιαννακης/src/Chapter20/Exercises/Exercise10/readme.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Η Γλωσσα C++ σε βαθος - Χατζηγιαννακης/src/Chapter21/Exercises/Exercise03/CMakeLists.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Η Γλωσσα C++ σε βαθος - Χατζηγιαννακης/src/Chapter21/Exercises/Exercise03/main.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Η Γλωσσα C++ σε βαθος - Χατζηγιαννακης/src/Chapter21/Exercises/Exercise03/readme.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -48,15 +48,15 @@
     <property name="cf.first.check.clang-format" value="false" />
     <property name="cidr.known.project.marker" value="true" />
     <property name="cmake.loaded.for.project" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/Η Γλωσσα C++ σε βαθος - Χατζηγιαννακης/src/Chapter20/Exercises" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/Η Γλωσσα C++ σε βαθος - Χατζηγιαννακης/src/Chapter21/Exercises" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\paulkokos\CLionProjects\c_projects\Η Γλωσσα C++ σε βαθος - Χατζηγιαννακης\src\Chapter21\Exercises" />
       <recent name="C:\Users\paulkokos\CLionProjects\c_projects\Η Γλωσσα C++ σε βαθος - Χατζηγιαννακης\src\Chapter20\Exercises" />
       <recent name="C:\Users\paulkokos\CLionProjects\c_projects\Η Γλωσσα C++ σε βαθος - Χατζηγιαννακης\src\Chapter19\Exercises" />
       <recent name="C:\Users\paulkokos\CLionProjects\c_projects\Η Γλωσσα C++ σε βαθος - Χατζηγιαννακης\src\Chapter18\Exercises" />
       <recent name="C:\Users\paulkokos\CLionProjects\c_projects\Η Γλωσσα C++ σε βαθος - Χατζηγιαννακης\src\Chapter17\Exercises" />
-      <recent name="C:\Users\paulkokos\CLionProjects\c_projects\Η Γλωσσα C++ σε βαθος - Χατζηγιαννακης\src\Chapter16\Exercises" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\paulkokos\CLionProjects\c_projects\Η Γλωσσα C++ σε βαθος - Χατζηγιαννακης\Files to fix" />
@@ -93,21 +93,7 @@
       <updated>1618523836482</updated>
       <workItem from="1618523844708" duration="722000" />
       <workItem from="1427667663820" duration="6000" />
-      <workItem from="1432942842065" duration="32164000" />
-    </task>
-    <task id="LOCAL-00485" summary="Corrections">
-      <created>1463337394187</created>
-      <option name="number" value="00485" />
-      <option name="presentableId" value="LOCAL-00485" />
-      <option name="project" value="LOCAL" />
-      <updated>1463337394187</updated>
-    </task>
-    <task id="LOCAL-00486" summary="Corrections">
-      <created>1463423823923</created>
-      <option name="number" value="00486" />
-      <option name="presentableId" value="LOCAL-00486" />
-      <option name="project" value="LOCAL" />
-      <updated>1463423823924</updated>
+      <workItem from="1432942842065" duration="32262000" />
     </task>
     <task id="LOCAL-00487" summary="Corrections">
       <created>1463510259981</created>
@@ -438,7 +424,21 @@
       <option name="project" value="LOCAL" />
       <updated>1467056653432</updated>
     </task>
-    <option name="localTasksCounter" value="534" />
+    <task id="LOCAL-00534" summary="Corrections">
+      <created>1467143301896</created>
+      <option name="number" value="00534" />
+      <option name="presentableId" value="LOCAL-00534" />
+      <option name="project" value="LOCAL" />
+      <updated>1467143301896</updated>
+    </task>
+    <task id="LOCAL-00535" summary="Corrections">
+      <created>1467143364069</created>
+      <option name="number" value="00535" />
+      <option name="presentableId" value="LOCAL-00535" />
+      <option name="project" value="LOCAL" />
+      <updated>1467143364069</updated>
+    </task>
+    <option name="localTasksCounter" value="536" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
