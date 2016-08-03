@@ -12,7 +12,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="9daec69b-7d49-453b-9723-153e1f371aee" name="Default Changelist" comment="Corrections">
-      <change beforePath="$PROJECT_DIR$/Η Γλωσσα C++ σε βαθος - Χατζηγιαννακης/src/Chapter03/main.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Η Γλωσσα C++ σε βαθος - Χατζηγιαννακης/src/Chapter05/main.c" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -91,21 +91,7 @@
       <updated>1618523836482</updated>
       <workItem from="1618523844708" duration="722000" />
       <workItem from="1427667663820" duration="6000" />
-      <workItem from="1432942842065" duration="33804000" />
-    </task>
-    <task id="LOCAL-00524" summary="Corrections">
-      <created>1466278291795</created>
-      <option name="number" value="00524" />
-      <option name="presentableId" value="LOCAL-00524" />
-      <option name="project" value="LOCAL" />
-      <updated>1466278291795</updated>
-    </task>
-    <task id="LOCAL-00525" summary="Corrections">
-      <created>1466364711096</created>
-      <option name="number" value="00525" />
-      <option name="presentableId" value="LOCAL-00525" />
-      <option name="project" value="LOCAL" />
-      <updated>1466364711096</updated>
+      <workItem from="1432942842065" duration="33831000" />
     </task>
     <task id="LOCAL-00526" summary="Corrections">
       <created>1466451150324</created>
@@ -436,7 +422,21 @@
       <option name="project" value="LOCAL" />
       <updated>1470082414151</updated>
     </task>
-    <option name="localTasksCounter" value="573" />
+    <task id="LOCAL-00573" summary="Corrections">
+      <created>1470168827382</created>
+      <option name="number" value="00573" />
+      <option name="presentableId" value="LOCAL-00573" />
+      <option name="project" value="LOCAL" />
+      <updated>1470168827382</updated>
+    </task>
+    <task id="LOCAL-00574" summary="Corrections">
+      <created>1470168838513</created>
+      <option name="number" value="00574" />
+      <option name="presentableId" value="LOCAL-00574" />
+      <option name="project" value="LOCAL" />
+      <updated>1470168838513</updated>
+    </task>
+    <option name="localTasksCounter" value="575" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
