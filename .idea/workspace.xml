@@ -13,6 +13,26 @@
   <component name="ChangeListManager">
     <list default="true" id="9daec69b-7d49-453b-9723-153e1f371aee" name="Default Changelist" comment="Corrections">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/untitled1.dir/DependInfo.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/untitled1.dir/DependInfo.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/untitled1.dir/build.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/untitled1.dir/build.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/untitled1.dir/cmake_clean.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/untitled1.dir/cmake_clean.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/untitled1.dir/objects1.rsp" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/untitled1.dir/objects1.rsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/Makefile" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/Makefile" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/Testing/Temporary/LastTest.log" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/Testing/Temporary/LastTest.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Η Γλωσσα C σε βαθος - Χατζηγιαννακης/Files to fix/askisi_11.10.c" beforeDir="false" afterPath="$PROJECT_DIR$/Η Γλωσσα C σε βαθος - Χατζηγιαννακης/Files to fix/Chapter11/askisi_11.10.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Η Γλωσσα C σε βαθος - Χατζηγιαννακης/Files to fix/askisi_11.3.c" beforeDir="false" afterPath="$PROJECT_DIR$/Η Γλωσσα C σε βαθος - Χατζηγιαννακης/Files to fix/Chapter11/askisi_11.3.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Η Γλωσσα C σε βαθος - Χατζηγιαννακης/Files to fix/askisi_11.4.c" beforeDir="false" afterPath="$PROJECT_DIR$/Η Γλωσσα C σε βαθος - Χατζηγιαννακης/Files to fix/Chapter11/askisi_11.4.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Η Γλωσσα C σε βαθος - Χατζηγιαννακης/Files to fix/askisi_11.6.c" beforeDir="false" afterPath="$PROJECT_DIR$/Η Γλωσσα C σε βαθος - Χατζηγιαννακης/Files to fix/Chapter11/askisi_11.6.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Η Γλωσσα C σε βαθος - Χατζηγιαννακης/Files to fix/askisi_11.7.c" beforeDir="false" afterPath="$PROJECT_DIR$/Η Γλωσσα C σε βαθος - Χατζηγιαννακης/Files to fix/Chapter11/askisi_11.7.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Η Γλωσσα C σε βαθος - Χατζηγιαννακης/Files to fix/askisi_5-char.c" beforeDir="false" afterPath="$PROJECT_DIR$/Η Γλωσσα C σε βαθος - Χατζηγιαννακης/Files to fix/Chapter05/askisi_5-char.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Η Γλωσσα C σε βαθος - Χατζηγιαννακης/Files to fix/kefalaio_11/kefalaio_11.cbp" beforeDir="false" afterPath="$PROJECT_DIR$/Η Γλωσσα C σε βαθος - Χατζηγιαννακης/Files to fix/Chapter11/kefalaio_11/kefalaio_11.cbp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Η Γλωσσα C σε βαθος - Χατζηγιαννακης/Files to fix/kefalaio_11/kefalaio_11.depend" beforeDir="false" afterPath="$PROJECT_DIR$/Η Γλωσσα C σε βαθος - Χατζηγιαννακης/Files to fix/Chapter11/kefalaio_11/kefalaio_11.depend" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Η Γλωσσα C σε βαθος - Χατζηγιαννακης/Files to fix/kefalaio_11/kefalaio_11.layout" beforeDir="false" afterPath="$PROJECT_DIR$/Η Γλωσσα C σε βαθος - Χατζηγιαννακης/Files to fix/Chapter11/kefalaio_11/kefalaio_11.layout" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Η Γλωσσα C σε βαθος - Χατζηγιαννακης/Files to fix/kefalaio_11/main.c" beforeDir="false" afterPath="$PROJECT_DIR$/Η Γλωσσα C σε βαθος - Χατζηγιαννακης/Files to fix/Chapter11/kefalaio_11/main.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Η Γλωσσα C σε βαθος - Χατζηγιαννακης/Files to fix/kefalaio_11/obj/Debug/pointers.o" beforeDir="false" afterPath="$PROJECT_DIR$/Η Γλωσσα C σε βαθος - Χατζηγιαννακης/Files to fix/Chapter11/kefalaio_11/obj/Debug/pointers.o" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Η Γλωσσα C σε βαθος - Χατζηγιαννακης/Files to fix/kefalaio_11/obj/Debug/strings.o" beforeDir="false" afterPath="$PROJECT_DIR$/Η Γλωσσα C σε βαθος - Χατζηγιαννακης/Files to fix/Chapter11/kefalaio_11/obj/Debug/strings.o" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Η Γλωσσα C σε βαθος - Χατζηγιαννακης/Files to fix/kefalaio_11_c.c" beforeDir="false" afterPath="$PROJECT_DIR$/Η Γλωσσα C σε βαθος - Χατζηγιαννακης/Files to fix/Chapter12/kefalaio_11_c.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Η Γλωσσα C σε βαθος - Χατζηγιαννακης/Files to fix/kefalaio_12_pinakes_alfarithmitikoi.c" beforeDir="false" afterPath="$PROJECT_DIR$/Η Γλωσσα C σε βαθος - Χατζηγιαννακης/Files to fix/Chapter12/kefalaio_12_pinakes_alfarithmitikoi.c" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -46,38 +66,33 @@
     <property name="cf.first.check.clang-format" value="false" />
     <property name="cidr.known.project.marker" value="true" />
     <property name="cmake.loaded.for.project" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/Η Γλωσσα C σε βαθος - Χατζηγιαννακης/src/Chapter02/Examples" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/Η Γλωσσα C σε βαθος - Χατζηγιαννακης/Files to fix" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\paulkokos\CLionProjects\c_projects\Η Γλωσσα C σε βαθος - Χατζηγιαννακης\Files to fix" />
       <recent name="C:\Users\paulkokos\CLionProjects\c_projects\Η Γλωσσα C σε βαθος - Χατζηγιαννακης\src\Chapter02\Examples" />
       <recent name="C:\Users\paulkokos\CLionProjects\c_projects\Η Γλωσσα C σε βαθος - Χατζηγιαννακης\src\Chapter01\Exercises" />
       <recent name="C:\Users\paulkokos\CLionProjects\c_projects\Η Γλωσσα C++ σε βαθος - Χατζηγιαννακης\src\Chapter24\Exercises" />
       <recent name="C:\Users\paulkokos\CLionProjects\c_projects\Η Γλωσσα C++ σε βαθος - Χατζηγιαννακης\src\Chapter23\Exercises" />
-      <recent name="C:\Users\paulkokos\CLionProjects\c_projects\Η Γλωσσα C++ σε βαθος - Χατζηγιαννακης\src\Chapter22\Exercises" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\paulkokos\CLionProjects\c_projects\Η Γλωσσα C σε βαθος - Χατζηγιαννακης\Files to fix\Chapter12" />
+      <recent name="C:\Users\paulkokos\CLionProjects\c_projects\Η Γλωσσα C σε βαθος - Χατζηγιαννακης\Files to fix\Chapter11" />
+      <recent name="C:\Users\paulkokos\CLionProjects\c_projects\Η Γλωσσα C σε βαθος - Χατζηγιαννακης\Files to fix\Chapter05" />
       <recent name="C:\Users\paulkokos\CLionProjects\c_projects\Η Γλωσσα C++ σε βαθος - Χατζηγιαννακης\Files to fix" />
       <recent name="C:\Users\paulkokos\CLionProjects\c_projects\Η Γλωσσα C++ σε βαθος - Χατζηγιαννακης\src" />
-      <recent name="C:\Users\paulkokos\CLionProjects\c_projects\Η Γλωσσα C σε βαθος - Χατζηγιαννακης" />
-      <recent name="C:\Users\paulkokos\CLionProjects\c_projects\Η Γλωσσα C σε βαθος - Χατζηγιαννακης\src" />
-      <recent name="C:\Users\paulkokos\CLionProjects\c_projects\Η Γλωσσα C σε βαθος - Χατζηγιαννακης\Files to fix" />
     </key>
   </component>
   <component name="RunManager">
-    <configuration default="true" type="CLionExternalRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true">
-      <method v="2">
-        <option name="CLION.EXTERNAL.BUILD" enabled="true" />
-      </method>
-    </configuration>
-    <configuration default="true" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true">
-      <method v="2">
-        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="untitled1" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="c_projects" TARGET_NAME="untitled1" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="c_projects" RUN_TARGET_NAME="untitled1">
       <method v="2">
         <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="GradleAppRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true">
+      <method v="2">
+        <option name="com.jetbrains.cidr.cpp.gradle.execution.GradleNativeBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
       </method>
     </configuration>
   </component>
@@ -91,14 +106,9 @@
       <updated>1618523836482</updated>
       <workItem from="1618523844708" duration="722000" />
       <workItem from="1427667663820" duration="6000" />
-      <workItem from="1432942842065" duration="35139000" />
-    </task>
-    <task id="LOCAL-00588" summary="Corrections">
-      <created>1471119395722</created>
-      <option name="number" value="00588" />
-      <option name="presentableId" value="LOCAL-00588" />
-      <option name="project" value="LOCAL" />
-      <updated>1471119395722</updated>
+      <workItem from="1432942842065" duration="36331000" />
+      <workItem from="1621230042105" duration="1158000" />
+      <workItem from="1474268327484" duration="1922000" />
     </task>
     <task id="LOCAL-00589" summary="Corrections">
       <created>1471205810134</created>
@@ -436,7 +446,14 @@
       <option name="project" value="LOCAL" />
       <updated>1474144335598</updated>
     </task>
-    <option name="localTasksCounter" value="637" />
+    <task id="LOCAL-00637" summary="Corrections">
+      <created>1474230767776</created>
+      <option name="number" value="00637" />
+      <option name="presentableId" value="LOCAL-00637" />
+      <option name="project" value="LOCAL" />
+      <updated>1474230767776</updated>
+    </task>
+    <option name="localTasksCounter" value="638" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">

@@ -4,7 +4,7 @@ set(CMAKE_DEPENDS_LANGUAGES
   )
 # The set of files for implicit dependencies of each language:
 set(CMAKE_DEPENDS_CHECK_C
-  "C:/Users/paulkokos/CLionProjects/c_projects/Η Γλωσσα C σε βαθος - Χατζηγιαννακης/test.c" "C:/Users/paulkokos/CLionProjects/c_projects/cmake-build-debug/CMakeFiles/untitled1.dir/Η_Γλωσσα_C_σε_βαθος_-_Χατζηγιαννακης/test.c.obj"
+  "C:/Users/paulkokos/CLionProjects/c_projects/Η Γλωσσα C σε βαθος - Χατζηγιαννακης/Files to fix/test.c" "C:/Users/paulkokos/CLionProjects/c_projects/cmake-build-debug/CMakeFiles/untitled1.dir/Η_Γλωσσα_C_σε_βαθος_-_Χατζηγιαννακης/Files_to_fix/test.c.obj"
   )
 set(CMAKE_C_COMPILER_ID "MSVC")
 
