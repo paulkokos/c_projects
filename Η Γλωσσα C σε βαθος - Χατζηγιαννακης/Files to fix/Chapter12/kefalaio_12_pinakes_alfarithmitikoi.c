@@ -5,9 +5,6 @@
 //#include <string>
 int main(){
     char lex[30],ans[30];
-
-
-
     strcpy(lex,"POLITIKOI");
     strcat(lex," ");
     strcat(lex,"TEXNOLOGIA");
