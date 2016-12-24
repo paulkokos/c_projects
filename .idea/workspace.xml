@@ -12,9 +12,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="9daec69b-7d49-453b-9723-153e1f371aee" name="Default Changelist" comment="Corrections">
-      <change afterPath="$PROJECT_DIR$/Η Γλωσσα C σε βαθος - Χατζηγιαννακης/src/Chapter12/Exercises/Exercise08/CMakeLists.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Η Γλωσσα C σε βαθος - Χατζηγιαννακης/src/Chapter12/Exercises/Exercise08/main.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Η Γλωσσα C σε βαθος - Χατζηγιαννακης/src/Chapter12/Exercises/Exercise08/readme.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Η Γλωσσα C σε βαθος - Χατζηγιαννακης/src/Chapter12/Exercises/Exercise10/CMakeLists.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Η Γλωσσα C σε βαθος - Χατζηγιαννακης/src/Chapter12/Exercises/Exercise10/main.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Η Γλωσσα C σε βαθος - Χατζηγιαννακης/src/Chapter12/Exercises/Exercise10/readme.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -91,14 +91,7 @@
       <workItem from="1427667663820" duration="6000" />
       <workItem from="1432942842065" duration="36331000" />
       <workItem from="1621230042105" duration="1158000" />
-      <workItem from="1474268327484" duration="14360000" />
-    </task>
-    <task id="LOCAL-00688" summary="Corrections">
-      <created>1478346254768</created>
-      <option name="number" value="00688" />
-      <option name="presentableId" value="LOCAL-00688" />
-      <option name="project" value="LOCAL" />
-      <updated>1478346254768</updated>
+      <workItem from="1474268327484" duration="14381000" />
     </task>
     <task id="LOCAL-00689" summary="Corrections">
       <created>1478432676055</created>
@@ -436,7 +429,14 @@
       <option name="project" value="LOCAL" />
       <updated>1482409796327</updated>
     </task>
-    <option name="localTasksCounter" value="737" />
+    <task id="LOCAL-00737" summary="Corrections">
+      <created>1482496210942</created>
+      <option name="number" value="00737" />
+      <option name="presentableId" value="LOCAL-00737" />
+      <option name="project" value="LOCAL" />
+      <updated>1482496210942</updated>
+    </task>
+    <option name="localTasksCounter" value="738" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
