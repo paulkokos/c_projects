@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1420124810 source:/home/paulkokos/cpp files/EIKONA_7.4/main.cpp
+	"Server.h"
+	<iostream>
+
+1420123250 /home/paulkokos/cpp files/EIKONA_7.4/include/Server.h
+
+1420124421 source:/home/paulkokos/cpp files/EIKONA_7.4/src/Server.cpp
+	<stdio.h>
+	<iostream>
+	"Server.h"
+

@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6" />
+	<Project>
+		<Option title="kefalaio_9" />
+		<Option pch_mode="2" />
+		<Option compiler="gcc" />
+		<Build>
+			<Target title="Debug">
+				<Option output="bin/Debug/kefalaio_9" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Debug/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-g" />
+				</Compiler>
+			</Target>
+			<Target title="Release">
+				<Option output="bin/Release/kefalaio_9" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Release/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-O2" />
+				</Compiler>
+				<Linker>
+					<Add option="-s" />
+				</Linker>
+			</Target>
+		</Build>
+		<Compiler>
+			<Add option="-Wall" />
+		</Compiler>
+		<Unit filename="../../roberts/unix-xwindows/exception.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="../../roberts/unix-xwindows/exception.h" />
+		<Unit filename="../../roberts/unix-xwindows/extgraph.h" />
+		<Unit filename="../../roberts/unix-xwindows/gcalloc.h" />
+		<Unit filename="../../roberts/unix-xwindows/genlib.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="../../roberts/unix-xwindows/genlib.h" />
+		<Unit filename="../../roberts/unix-xwindows/glibrary.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="../../roberts/unix-xwindows/glibrary.h" />
+		<Unit filename="../../roberts/unix-xwindows/graphics.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="../../roberts/unix-xwindows/graphics.h" />
+		<Unit filename="../../roberts/unix-xwindows/random.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="../../roberts/unix-xwindows/random.h" />
+		<Unit filename="../../roberts/unix-xwindows/simpio.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="../../roberts/unix-xwindows/simpio.h" />
+		<Unit filename="../../roberts/unix-xwindows/strlib.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="../../roberts/unix-xwindows/strlib.h" />
+		<Unit filename="../../roberts/unix-xwindows/xcompat.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="../../roberts/unix-xwindows/xcompat.h" />
+		<Unit filename="../../roberts/unix-xwindows/xmanager.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="../../roberts/unix-xwindows/xmanager.h" />
+		<Unit filename="askisi_9.7.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="main.c">
+			<Option compilerVar="CC" />
+			<Option compile="0" />
+			<Option link="0" />
+		</Unit>
+		<Extensions>
+			<code_completion />
+			<debugger />
+		</Extensions>
+	</Project>
+</CodeBlocks_project_file>

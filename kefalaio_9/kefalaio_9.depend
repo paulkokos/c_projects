@@ -1,0 +1,128 @@
+# depslib dependency file v1.0
+1433662270 source:/home/paulkokos/roberts/unix-xwindows/graphics.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<math.h>
+	<signal.h>
+	<sys/time.h>
+	<sys/types.h>
+	"genlib.h"
+	"gcalloc.h"
+	"simpio.h"
+	"strlib.h"
+	"extgraph.h"
+	"glibrary.h"
+	"xmanager.h"
+	"xdisplay.h"
+	"xcompat.h"
+
+1433662274 /home/paulkokos/roberts/unix-xwindows/genlib.h
+	<stdio.h>
+	<stdlib.h>
+	<stddef.h>
+
+1433662275 /home/paulkokos/roberts/unix-xwindows/gcalloc.h
+
+1433662264 /home/paulkokos/roberts/unix-xwindows/simpio.h
+	"genlib.h"
+
+1433662262 /home/paulkokos/roberts/unix-xwindows/strlib.h
+	"genlib.h"
+
+1433662278 /home/paulkokos/roberts/unix-xwindows/extgraph.h
+	"genlib.h"
+	"graphics.h"
+
+1433662267 /home/paulkokos/roberts/unix-xwindows/graphics.h
+
+1433662271 /home/paulkokos/roberts/unix-xwindows/glibrary.h
+
+1433662248 /home/paulkokos/roberts/unix-xwindows/xmanager.h
+	"genlib.h"
+
+1433662253 /home/paulkokos/roberts/unix-xwindows/xdisplay.h
+	"genlib.h"
+
+1433662259 /home/paulkokos/roberts/unix-xwindows/xcompat.h
+	<string.h>
+
+1433666427 source:/home/paulkokos/cpp files/kefalaio_9/askisi_9.7.c
+	<stdio.h>
+	<stdlib.h>
+	<graphics.h>
+
+1433662279 source:/home/paulkokos/roberts/unix-xwindows/exception.c
+	<stdio.h>
+	<stdarg.h>
+	"genlib.h"
+	"gcalloc.h"
+	"exception.h"
+
+1433662280 /home/paulkokos/roberts/unix-xwindows/exception.h
+	<setjmp.h>
+	<string.h>
+	"genlib.h"
+
+1433662273 source:/home/paulkokos/roberts/unix-xwindows/genlib.c
+	<stdio.h>
+	<stddef.h>
+	<string.h>
+	<stdarg.h>
+	"genlib.h"
+	"gcalloc.h"
+	"exception.h"
+
+1433662271 source:/home/paulkokos/roberts/unix-xwindows/glibrary.c
+	<stdio.h>
+	<math.h>
+	"genlib.h"
+
+1433662265 source:/home/paulkokos/roberts/unix-xwindows/random.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	"genlib.h"
+	"random.h"
+
+1433662265 /home/paulkokos/roberts/unix-xwindows/random.h
+	"genlib.h"
+	<stdlib.h>
+
+1433662264 source:/home/paulkokos/roberts/unix-xwindows/simpio.c
+	<stdio.h>
+	<string.h>
+	"genlib.h"
+	"strlib.h"
+	"simpio.h"
+
+1433662263 source:/home/paulkokos/roberts/unix-xwindows/strlib.c
+	<stdio.h>
+	<string.h>
+	<ctype.h>
+	"genlib.h"
+	"strlib.h"
+
+1433662260 source:/home/paulkokos/roberts/unix-xwindows/xcompat.c
+	<stdio.h>
+	<stdlib.h>
+	<poll.h>
+	<sys/time.h>
+	<sys/types.h>
+	"xcompat.h"
+
+1433662251 source:/home/paulkokos/roberts/unix-xwindows/xmanager.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<signal.h>
+	<sys/time.h>
+	<sys/types.h>
+	"genlib.h"
+	"exception.h"
+	"simpio.h"
+	"xmanager.h"
+	"xdisplay.h"
+	"xcompat.h"
+	"glibrary.h"
+

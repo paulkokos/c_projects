@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1419999407 source:/home/paulkokos/cpp files/bankAccount/main.cpp
+	<iostream>
+	<BankAccount.h>
+
+1420121214 source:/home/paulkokos/cpp files/bankAccount/src/BankAccount.cpp
+	<stdio.h>
+	<cstdlib>
+	<iostream>
+	"BankAccount.h"
+	<cmath>
+
+1420121248 /home/paulkokos/cpp files/bankAccount/include/BankAccount.h
+

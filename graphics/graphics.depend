@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1433656993 source:/home/paulkokos/cpp files/askiseis_xatzigianaki_c/graphics.c
+	<stdio.h>
+	<graphics.h>
+	<SDL/SDL.h>
+

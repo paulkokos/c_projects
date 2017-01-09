@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1433720480 source:/home/paulkokos/cpp files/kefalaio_11/pointers.c
+	<stdio.h>
+
+1433722086 source:/home/paulkokos/cpp files/kefalaio_11/strings.c
+	<stdio.h>
+
